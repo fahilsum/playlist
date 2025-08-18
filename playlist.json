@@ -1,0 +1,137 @@
+  {
+  "songs": [
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/AlexanderRybak-Fairytale.jpg",
+      "author": "Alexander Rybak",
+      "song": "Fairytale",
+      "json": "https://fahilsum.github.io/playlist/data/AlexanderRybak-Fairytale.json",
+      "audio": "https://fahilsum.github.io/playlist/music/AlexanderRybak-Fairytale.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/AlexanderStewart-LifeatFirstSight.jpg",
+      "author": "Alexander Stewart",
+      "song": "Life at First Sight",
+      "json": "https://fahilsum.github.io/playlist/data/AlexanderStewart-LifeatFirstSight.json",
+      "audio": "https://fahilsum.github.io/playlist/music/AlexanderStewart-LifeatFirstSight.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/AzizHedra-SomebodysPleasure(ExtendedVersion).jpg",
+      "author": "Aziz Hedra",
+      "song": "Somebody's Pleasure (Extended Version)",
+      "json": "https://fahilsum.github.io/playlist/data/AzizHedra-SomebodysPleasure(ExtendedVersion).json",
+      "audio": "https://fahilsum.github.io/playlist/music/AzizHedra-SomebodysPleasure(ExtendedVersion).mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/Beabadoobee-GlueSong.jpg",
+      "author": "Beabadoobee",
+      "song": "Glue Song",
+      "json": "https://fahilsum.github.io/playlist/data/Beabadoobee-GlueSong.json",
+      "audio": "https://fahilsum.github.io/playlist/music/Beabadoobee-GlueSong.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/BillieEilish-BirdsOfAFeather.jpg",
+      "author": "Billie Eilish",
+      "song": "Birds Of a Feather",
+      "json": "https://fahilsum.github.io/playlist/data/BillieEilish-BirdsOfAFeather.json",
+      "audio": "https://fahilsum.github.io/playlist/music/BillieEilish-BirdsOfAFeather.mp3"
+    },    
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/DavidChoi-ByMySide.jpg",
+      "author": "David Choi",
+      "song": "By My Side",
+      "json": "https://fahilsum.github.io/playlist/data/DavidChoi-ByMySide.json",
+      "audio": "https://fahilsum.github.io/playlist/music/DavidChoi-ByMySide.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/GooGooDolls-Iris.jpg",
+      "author": "Goo Goo Dolls",
+      "song": "Iris",
+      "json": "https://fahilsum.github.io/playlist/data/GooGooDolls-Iris.json",
+      "audio": "https://fahilsum.github.io/playlist/music/GooGooDolls-Iris.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/Gustixa-CantHelpFallingInLove.jpg",
+      "author": "Gustixa",
+      "song": "Can't Help Falling In Love",
+      "json": "https://fahilsum.github.io/playlist/data/Gustixa-CantHelpFallingInLove.json",
+      "audio": "https://fahilsum.github.io/playlist/music/Gustixa-CantHelpFallingInLove.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/HenryMoodie-DrunkText.jpg",
+      "author": "Henry Moodie",
+      "song": "Drunk Text",
+      "json": "https://fahilsum.github.io/playlist/data/HenryMoodie-DrunkText.json",
+      "audio": "https://fahilsum.github.io/playlist/music/HenryMoodie-DrunkText.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/ImagineDragons-Summer.jpg",
+      "author": "Imagine Dragons",
+      "song": "Summer",
+      "json": "https://fahilsum.github.io/playlist/data/ImagineDragons-Summer.json",
+      "audio": "https://fahilsum.github.io/playlist/music/ImagineDragons-Summer.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/JVKE-GoldenHour.jpg",
+      "author": "JVKE",
+      "song": "Golden Hour",
+      "json": "https://fahilsum.github.io/playlist/data/JVKE-GoldenHour.json",
+      "audio": "https://fahilsum.github.io/playlist/music/JVKE-GoldenHour.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/Lenka-DontLetMeFall.jpg",
+      "author": "Lenka",
+      "song": "Don't Let Me Fall",
+      "json": "https://fahilsum.github.io/playlist/data/Lenka-DontLetMeFall.json",
+      "audio": "https://fahilsum.github.io/playlist/music/Lenka-DontLetMeFall.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/Mhir-SomeoneIllWait.jpg",
+      "author": "Mhir",
+      "song": "Someone I'll Wait",
+      "json": "https://fahilsum.github.io/playlist/data/Mhir-SomeoneIllWait.json",
+      "audio": "https://fahilsum.github.io/playlist/music/Mhir-SomeoneIllWait.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/Mosawo-Koiiro.jpg",
+      "author": "Mosawo",
+      "song": "Koiiro",
+      "json": "https://fahilsum.github.io/playlist/data/Mosawo-Koiiro.json",
+      "audio": "https://fahilsum.github.io/playlist/music/Mosawo-Koiiro.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/NeckDeep-WishYouWereHere.jpg",
+      "author": "Neck Deep",
+      "song": "Wish You Were Here",
+      "json": "https://fahilsum.github.io/playlist/data/NeckDeep-WishYouWereHere.json",
+      "audio": "https://fahilsum.github.io/playlist/music/NeckDeep-WishYouWereHere.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/RexOrangeCounty-TheShade.jpg",
+      "author": "Rex Orange County",
+      "song": "The Shade",
+      "json": "https://fahilsum.github.io/playlist/data/RexOrangeCounty-TheShade.json",
+      "audio": "https://fahilsum.github.io/playlist/music/RexOrangeCounty-TheShade.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/RickyMontgomery-LineWithoutAHook.jpg",
+      "author": "Ricky Montgomery",
+      "song": "Line Without a Hook",
+      "json": "https://fahilsum.github.io/playlist/data/RickyMontgomery-LineWithoutAHook.json",
+      "audio": "https://fahilsum.github.io/playlist/music/RickyMontgomery-LineWithoutAHook.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/ShawnMendes-Imagination.jpg",
+      "author": "Shawn Mendes",
+      "song": "Imagination",
+      "json": "https://fahilsum.github.io/playlist/data/ShawnMendes-Imagination.json",
+      "audio": "https://fahilsum.github.io/playlist/music/ShawnMendes-Imagination.mp3"
+    },
+    {
+      "albumart": "https://fahilsum.github.io/playlist/album/YungKai-Blue.jpg",
+      "author": "Yung Kai",
+      "song": "Blue",
+      "json": "https://fahilsum.github.io/playlist/data/YungKai-Blue.json",
+      "audio": "https://fahilsum.github.io/playlist/music/YungKai-Blue.mp3"
+    }
+  ]
+}
