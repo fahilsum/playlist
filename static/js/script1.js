@@ -140,7 +140,7 @@
         return function(e) {
           return e({
             type: u.FETCH_PLAYLIST_BEGIN
-          }), fetch("https://zhongwen37.github.io/playlist/playlist.json", {
+          }), fetch("https://fahilsum.github.io/playlist/playlist.json", {
             credentials: "omit",
             method: "GET"
           }).then(T.handleErrors).then((function(e) {
